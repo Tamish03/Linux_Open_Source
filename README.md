@@ -1,7 +1,7 @@
 # Open Source Software Audit - Git
 
-**Student Name:** Pradyumn Krishna Arya  
-**Roll Number:** 24bai10668  
+**Student Name:** Sarthak Bhide 
+**Roll Number:** 24BCE11102
 **Course Name:** Open Source Software  
 **Chosen Software:** Git  
 

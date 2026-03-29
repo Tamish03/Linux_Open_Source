@@ -48,7 +48,7 @@ echo "==========================================="
 # Linux Distro    : Ubuntu 22.04.3 LTS
 # Kernel Version  : 5.15.0-88-generic
 # Logged in User  : pradyumn
-# Home Directory  : /home/pradyumn
+# Home Directory  : /home/Sarthak Bhide
 # System Uptime   : up 2 hours, 15 minutes
 # -------------------------------------------
 # Fun Fact: Ubuntu 22.04.3 LTS is open source and heavily relies on the GPL license!

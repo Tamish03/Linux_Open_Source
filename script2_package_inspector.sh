@@ -1,7 +1,7 @@
 #!/bin/bash
 # script2_package_inspector.sh
-# Author: Pradyumn Krishna Arya
-# Roll Number: 24bai10668
+# Author: Sarthak Bhide
+# Roll Number: 24BCE11102
 # Purpose: Check if Git is installed and show details about some FOSS tools
 
 echo "==========================================="

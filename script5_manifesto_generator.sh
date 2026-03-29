@@ -1,7 +1,7 @@
 #!/bin/bash
 # script5_manifesto_generator.sh
-# Author: Pradyumn Krishna Arya
-# Roll Number: 24bai10668
+# Author: Sarthak Bhide
+# Roll Number: 24BCE11102
 # Purpose: Interactively generate a personalized open source philosophy document
 
 echo "==========================================="
