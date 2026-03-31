@@ -62,4 +62,3 @@ Run each script using `./`:
 - Standard pre-installed utilities: `awk`, `du`, `grep`, `dpkg` (for Debian-based distros)
 
 ---
-*Created for the Open Source Software capstone assignment.*
