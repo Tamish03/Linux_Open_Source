@@ -1,7 +1,7 @@
 #!/bin/bash
 # script1_system_identity.sh
-# Author: Pradyumn Krishna Arya
-# Roll Number: 24bai10668
+# Author: Sarthak Bhide
+# Roll Number: 24bce11102
 # Purpose: Display basic system and user information to establish the environment
 
 echo "==========================================="
@@ -47,7 +47,7 @@ echo "==========================================="
 # Date/Time       : 2023-11-20 14:30:00
 # Linux Distro    : Ubuntu 22.04.3 LTS
 # Kernel Version  : 5.15.0-88-generic
-# Logged in User  : pradyumn
+# Logged in User  : sarthak
 # Home Directory  : /home/Sarthak Bhide
 # System Uptime   : up 2 hours, 15 minutes
 # -------------------------------------------
